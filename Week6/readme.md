@@ -1,6 +1,6 @@
 ## Achievement
 
-- [ ] Lab 6: World Cup
+- [x] Lab 6: World Cup
 - [x] Sentimental / Hello 
 - [ ] Sentimental / Mario (Less)
 - [x] Sentimental / Mario (More)
